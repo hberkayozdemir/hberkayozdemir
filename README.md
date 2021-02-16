@@ -6,7 +6,7 @@
 - 💬 Ask me about cyriptocoins or software maven java libraries.
 - 📫 How to reach me: hilmiberkayozdemir@gmail.com  / hilmiberkayozdemir@outlook.com
 
-[![Hbos's github stats](https://github-readme-stats.vercel.app/api?username=anilaydinn&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Hbos's github stats](https://github-readme-stats.vercel.app/api?username=hberkayozdemir&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hberkayozdemir&layout=compact&langs_count=10&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
