@@ -13,4 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hberkayozdemir&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=anilaydinn&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=hberkayozdemir&color=brightgreen)
+
+
+
