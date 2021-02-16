@@ -3,8 +3,8 @@
 
 
  :computer: I'm currently not working.I'm freelancer and open to work
-- 🔭 I’m currently working on  java  and php
-- 🌱 I’m currently learning flutter-dart pl and php laravel
+- 🔭 I’m  working on  java  and php
+- 🌱 I’m  learning flutter-dart pl and php laravel
 - 💬 Ask me about cyriptocoins or software maven java libraries.
 - 📫 How to reach me: hilmiberkayozdemir@gmail.com  / hilmiberkayozdemir@outlook.com
 
