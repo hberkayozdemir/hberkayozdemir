@@ -1,6 +1,6 @@
 
 
-![Title](https://cdn.dribbble.com/users/583275/screenshots/3402204/hbo.gif)
+![Title](https://media.giphy.com/avatars/hbo/Uova6eUTYz6e.gif)
 
 
  :computer: I'm currently not working.I'm freelancer and open to work
