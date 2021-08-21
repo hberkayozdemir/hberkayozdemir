@@ -3,10 +3,10 @@
 
 
  :computer: I'm currently not working.I'm freelancer and open to work
-- 🔭 I’m  working on  java  and php
-- 🌱 I’m  learning flutter-dart pl and php laravel
-- 💬 Ask me about cyriptocoins or software maven java libraries.
-- 📫 How to reach me: hilmiberkayozdemir@gmail.com  / hilmiberkayozdemir@outlook.com
+- 🔭 I’m  working on  Golang  and React
+- 🌱 I’m  learning test driven developement ,terraforms and Kubernetes 
+- 💬 Ask me about cyriptocoins.
+- 📫 How to reach me: hilmiberkayozdemir@yahoo.com
 
 [![Hbos's github stats](https://github-readme-stats.vercel.app/api?username=hberkayozdemir&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
