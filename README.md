@@ -2,7 +2,7 @@
 ![Title](https://media1.tenor.com/images/4dac3c654003287d3afb9e52bb777f4f/tenor.gif?itemid=15713191)
 
 
- :computer: I'm currently not working.I'm freelancer and open to work
+ :computer: I'm currently working. I'm web developer at kartelam.com
 - 🔭 I’m  working on  Golang  and React
 - 🌱 I’m  learning test driven developement ,terraforms and Kubernetes 
 - 💬 Ask me about cyriptocoins.
