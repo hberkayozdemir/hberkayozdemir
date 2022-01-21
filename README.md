@@ -2,10 +2,10 @@
 ![Title](https://media1.tenor.com/images/4dac3c654003287d3afb9e52bb777f4f/tenor.gif?itemid=15713191)
 
 
- :computer: I'm currently working. I'm web developer at kartelam.com
-- 🔭 I’m  working on  Golang  and React
+ :computer: I'm currently working. I'm Flutter Engineer at fahasoftware
+- 🔭 I’m  working on  Flutter.
 - 🌱 I’m  learning test driven developement ,terraforms and Kubernetes 
-- 💬 Ask me about cyriptocoins.
+- 💬 Ask me about my own state management package.
 - 📫 How to reach me: hilmiberkayozdemir@yahoo.com
 
 [![Hbos's github stats](https://github-readme-stats.vercel.app/api?username=hberkayozdemir&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
