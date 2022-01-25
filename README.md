@@ -4,7 +4,7 @@
 
  :computer: I'm currently working. I'm Flutter Engineer at fahasoftware
 - 🔭 I’m  working on  Flutter.
-- 🌱 I’m  learning test driven developement ,terraforms and Kubernetes 
+- 🌱 I’m  learning CI/CD code magic Flutter and Widget Testing
 - 💬 Ask me about my own state management package.
 - 📫 How to reach me: hilmiberkayozdemir@yahoo.com
 
