@@ -2,7 +2,7 @@
 ![Title](https://media1.tenor.com/images/4dac3c654003287d3afb9e52bb777f4f/tenor.gif?itemid=15713191)
 
 
- :computer: I'm currently working. I'm Flutter Engineer at fahasoftware
+ :computer: I'm currently working. I'm Flutter Engineer at Etiya
 - 🔭 I’m  working on  Flutter.
 - 🌱 I’m  learning CI/CD code magic Flutter and Widget Testing
 - 💬 Ask me about my own state management package.
