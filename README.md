@@ -4,8 +4,8 @@
 
  :computer: I'm currently working. I'm Flutter Engineer at Etiya
 - 🔭 I’m  working on  Flutter.
-- 🌱 I’m  learning CI/CD code magic Flutter and Widget Testing
-- 💬 Ask me about my own state management package.
+- 🌱 I’m  learning swift.
+- 💬 Ask me about my own state management package my_mvvm.
 - 📫 How to reach me: hilmiberkayozdemir@yahoo.com
 
 [![Hbos's github stats](https://github-readme-stats.vercel.app/api?username=hberkayozdemir&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
