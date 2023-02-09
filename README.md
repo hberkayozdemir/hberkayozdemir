@@ -2,9 +2,9 @@
 ![Title](https://media1.tenor.com/images/4dac3c654003287d3afb9e52bb777f4f/tenor.gif?itemid=15713191)
 
 
- :computer: I'm currently working. I'm Flutter Engineer at Etiya
+ :computer: I'm currently working. I'm Flutter Engineer at Oxos Medical Atlanta
 - 🔭 I’m  working on  Flutter.
-- 🌱 I’m  learning swift.
+- 🌱 I’m  learning Golang.
 - 💬 Ask me about my own state management package my_mvvm.
 - 📫 How to reach me: hilmiberkayozdemir@yahoo.com
 
